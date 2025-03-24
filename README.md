@@ -13,7 +13,7 @@ Computer Graphics Assignment 1
 1.2 Assignment.cpp
 구현한 클래스 및 코드들은 Assignment.cpp 안에 존재하고, 구현되었습니다.
 
-3. 결과
+2. 결과
 
  ![image](https://github.com/user-attachments/assets/301275ed-2aed-47ad-b37f-215854bcb1f3)
 
